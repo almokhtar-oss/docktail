@@ -1,5 +1,7 @@
 # 🍸 DockTail
 
+[![Deploy to Railyard](https://app.railyard.run/deploy/badge)](https://app.railyard.run/deploy?repo=https://github.com/marvinvr/docktail)
+
 **Unleash your containers as Tailscale Services.**
 
 <p align="center">
